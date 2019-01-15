@@ -1,0 +1,36 @@
+{
+  "name": "real_time_pos_system",
+  "version": "1.0.0",
+  "description": "Real time point of scale system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadityachapagain/Point_of_Scale_System.git"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "nodejs",
+    "reactjs",
+    "pos",
+    "command",
+    "cli"
+  ],
+  "author": "Admiral Azazel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadityachapagain/Point_of_Scale_System/issues"
+  },
+  "homepage": "https://github.com/aadityachapagain/Point_of_Scale_System#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^1.18.9",
+    "socket.io": "^2.2.0"
+  }
+}
