@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/aadityachapagain/Point_of_Scale_System#readme",
   "dependencies": {
+    "async": "^2.6.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "http": "0.0.0",
